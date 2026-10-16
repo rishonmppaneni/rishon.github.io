@@ -14,14 +14,11 @@ export default function Home() {
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
+            Rishon Muppaneni
+           
           </h1>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
+            I am a junior at Irvington Highschool, looking to help neurodiverse children and people in need of wearable devices to help appease their conditions. I have built a robotic stick to help visually-impaired people navigate their surroundings and avoid obstacles. In addition to this, I developed a deep learning model that classifies different stages of Alzeimers Disease. I am co-founder and vice president of Rooting Minds, a non-profit organization which helps neurodiverse children with problem solving and critical thinking through various games and activities. I am currently working on an EEG wearable heatset that can determine the intentions of neurodiverse children by collecting data from EEG brain signals and using an AI model to classify and give soltuions to their intentions. Furthermore, I am working on a button device, which helps non-verbal children record their speech and communicate with others.
             <a
               href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
               className="font-medium text-zinc-950 dark:text-zinc-50"
